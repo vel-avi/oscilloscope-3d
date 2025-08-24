@@ -1,11 +1,6 @@
 # 3D Oscilloscope Viewer (Single‑File)
 Upload your own audio and visualize it in 2D/3D (waveform, spectrum bars, Lissajous, spiral). Record the canvas to a WebM video.
 
-## Live demo (GitHub Pages)
-1. Create a **new GitHub repository** (public), e.g. `oscilloscope-3d`.
-2. Upload the files from this repo bundle.
-3. In the repo settings → **Pages**, set Source to **Deploy from a branch**, select `main` and `/ (root)`.
-4. Visit the Pages URL GitHub gives you (usually `https://<user>.github.io/oscilloscope-3d/`).
 
 > The app uses Three.js from **unpkg** CDN, so it works on GitHub Pages out of the box.
 
